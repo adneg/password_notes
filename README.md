@@ -14,7 +14,8 @@ build script:
 	date
 	cd deploy/linux && ./$program
 
-first password: a 
+first password: a
+
 login admin
 
 to work need run https://github.com/adneg/rserwer
