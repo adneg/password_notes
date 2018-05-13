@@ -1,6 +1,7 @@
 # password_notes
 This is a over network muntial ssl clinet to colected password.
-Of course you need to generate certificates and change the AES key in your code before build
+Of course you need to generate certificates and change the AES key in your code before build.
+
 build script:
 
 	#!/bin/bash
