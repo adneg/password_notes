@@ -12,4 +12,7 @@ build script:
 	date
 	cd deploy/linux && ./$program
 
-first password a login admin
+first password: a 
+login admin
+
+to work need https://github.com/adneg/rserwer
