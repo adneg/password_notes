@@ -1,6 +1,7 @@
 # password_notes
 
 build script:
+
 	#!/bin/bash
 	place=`pwd`
 	program=`basename $place`
