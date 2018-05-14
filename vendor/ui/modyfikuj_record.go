@@ -30,7 +30,7 @@ func (p *Pilot) modyfikuj_record() {
 	labelLogin := widgets.NewQLabel(okno_mod_r, 0)
 	labelLogin.SetText("Login: ")
 	editLogin := widgets.NewQLineEdit(okno_mod_r)
-	l, _ := tools.Decrypt(tools.Key, p.treePassword.CurrentItem().Text(103))
+	l, _ := tools.Decrypt(tools.Key, p.treePassword.CurrentItem().Text(102))
 	editLogin.SetText(l)
 
 	labelHaslo := widgets.NewQLabel(okno_mod_r, 0)
