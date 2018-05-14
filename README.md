@@ -1,6 +1,6 @@
 # password_notes
 This is a over network muntial ssl clinet to collected password.
-Of course you need to generate certificates and change the AES key in code before build.
+You need to generate certificates and change the AES key in code before build.
 
 build script:
 
